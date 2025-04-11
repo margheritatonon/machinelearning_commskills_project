@@ -1,4 +1,4 @@
-# machinelearning_commskills_project
+# Machine Learning and Communication Skills Project: Predicting Patient Health
 
 Predictive analysis plays a critical role in early detection and prevention of diseases. Medical history and lifestyle habits are driving factors in health outcomes; however, the extent to which each risk factor weighs in on illnesses is harder to determine. Predicting patient risk can help ensure long-term patient health, reduce costs by avoiding expensive medical tests, and allow more effective time allocation of medical professionals.
 
